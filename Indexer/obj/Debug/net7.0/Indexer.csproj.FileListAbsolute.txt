@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\bin\Debug\net7.0\Indexer.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\bin\Debug\net7.0\Indexer.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\bin\Debug\net7.0\Indexer.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\bin\Debug\net7.0\Indexer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\bin\Debug\net7.0\Indexer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\refint\Indexer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\Indexer.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Indexer\Indexer\obj\Debug\net7.0\ref\Indexer.dll
